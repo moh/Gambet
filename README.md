@@ -55,4 +55,4 @@ I have used python-to-android project that uses buildozer to generate an apk fil
 
 ## Authors ✍
 
-* **Said Mohamad Ammar ** - *Student in Lille University* 
+* **Said Mohamad Ammar** - *Student in Lille University* 
