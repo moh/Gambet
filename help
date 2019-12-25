@@ -1,0 +1,23 @@
+[b]Gambet[/b] is an Android numbers guessing game of wit and strategy. 
+
+The object of the game is for you to outwit and beat [b]Gambet[/b].
+
+You guess [b]Gambet[/b]’s number, and [b]Gambet[/b] guesses your number. 
+
+Both yours and [b]Gambet[/b]’s numbers must consist of four different digits from 1 to 9.
+
+In the onscreen playing section you must select and enter a four digit number that you believe matches [b]Gambet[/b]’s number.
+After entering this number the program will give you two values, and these will appear in the player list.
+Then [b]Gambet[/b] will show you a number that it thinks matches your number, and two values "B" and "S" that will show on screen.
+
+The "B" value indicates the amount of numbers that you have selected and match [b]Gambet[/b]’s numbers, but in different places.
+
+The "S" value indicates the amount of numbers that you have selected and match [b]Gambet[/b]’s numbers that are in the correct place.
+
+For example , if the number you enter is 1234 and [b]Gambet[/b]’s number is 9385 then the system will show a value of B 1 and  S 0 because your number 3 matches [b]Gambet[/b]’s number 3 but is in the wrong place.
+
+Then when [b]Gambet[/b] selects a new number for example 1293 and your number is 1234 because the number 3 is correctly selected, but in the wrong place you must enter the number 1 [1 digit] in the B value. Then because the number 1 and 2 are correctly selected in the correct place then you must enter number 2 [2 digits] in S value.
+
+If you select 4 correct numbers, but in the wrong order the system will only ask you to enter the B value.
+
+The match of wit and guessing will continue until a winner is declared.
